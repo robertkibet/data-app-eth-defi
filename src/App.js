@@ -5,7 +5,9 @@ import MainDashboard from "./DeFiant/MainDashboard";
 function App() {
   return (
     <div className="App">
+        <p>Welcome to Dash-Fi</p>
       <MainDashboard/>
+
     </div>
   );
 }
