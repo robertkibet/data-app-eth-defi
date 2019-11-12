@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
         <p>Welcome to Dash-Fi</p>
+        <h2>Alright</h2>
       <MainDashboard/>
 
     </div>
