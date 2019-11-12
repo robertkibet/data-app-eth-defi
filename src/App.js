@@ -8,6 +8,7 @@ function App() {
         <p>Welcome to Dash-Fi</p>
         <h2>Alright</h2>
       <MainDashboard/>
+        <span>New modifiecd</span>
 
     </div>
   );
