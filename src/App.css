@@ -1,0 +1,73 @@
+body {
+  background: #eef5f9 !important;
+  font-family: "Nunito Sans", sans-serif !important;
+}
+
+html {
+  color: #9098ac !important;
+}
+
+.spacer {
+  height: 30px !important;
+}
+
+h4 {
+  font-size: 24px !important;
+  line-height: 110% !important;
+  margin: 16px 0 9.6px 0 !important;
+}
+h6 {
+  font-size: 16px;
+  line-height: 110%;
+  margin: 10.66667px 0 6.4px 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #414755 !important;
+}
+html body .font-medium {
+  font-weight: 700 !important;
+}
+
+table {
+  width: 100% !important;
+  display: table !important;
+  border-collapse: collapse !important;
+  border-spacing: 0 !important;
+}
+
+.container {
+  width: 90% !important;
+}
+
+/* manage cards */
+.card {
+  position: relative !important;
+  margin: 0.5rem 0 1rem 0 !important;
+  background-color: #fff !important;
+  transition: box-shadow 0.25s !important;
+  border-radius: 2px !important;
+  border-bottom-color: #92a8d1 !important;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.01),
+    0 3px 1px -2px rgba(0, 0, 0, 0.02), 0 1px 5px 0 rgba(0, 0, 0, 0.02) !important;
+}
+.blue-grey {
+  color: #fff !important;
+}
+.custom-font {
+  color: #fff !important;
+}
+/* end cards */
+
+/* manage tabs */
+.tabs .tab a:hover,
+.tabs .tab a.active {
+  background-color: #ee6e73 !important;
+  color: #ffffff !important;
+}
+
+/* end manage tabs */
